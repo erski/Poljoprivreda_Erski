@@ -1,0 +1,148 @@
+body
+{
+    background-color: greenyellow;
+    color: black;
+}
+
+#tabela
+{
+    background-color: black;
+    border-color: white;
+    border-width: 1px;
+    border-style: solid;
+    color: white;
+    text-align: center;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+#tabela1
+{
+    background-color: black;
+    border-color: white;
+    border-width: 1px;
+    border-style: solid;
+    color: white;
+    text-align: center;
+}
+
+#tabela_setva
+{
+    text-align: center;
+}
+
+#tabela_setva1
+{
+    border-top-color: black;
+    border-top-width: 1px;
+    border-top-style: groove;
+}
+
+#tabela_center
+{
+
+    text-align: center;
+    padding-left: 70px;
+    padding-right: 70px;
+}
+
+#tdt
+{
+    border: 1px;
+    border-color: black;
+    border-style: groove;
+}
+
+#tabela a
+{
+    color: white;
+    text-decoration: none;
+}
+
+#tabela1 a
+{
+    color: white;
+    text-decoration: none;
+}
+
+h1
+{
+    text-align: center;
+    text-decoration: black;
+    text-decoration: underline;
+}
+h2
+{
+    text-align: center;
+    text-decoration: black;
+    text-decoration: underline;
+}
+h3
+{
+    text-align: center;
+    text-decoration: black;
+    text-decoration: underline;
+}
+
+
+
+#unos
+{
+    border-left-width: 1px;
+    border-left-color: black;
+    border-left-style: groove;
+}
+
+#unos1
+{
+    border-left-width: 1px;
+    border-left-color: black;
+    border-left-style: groove;
+    border-top-width: 1px;
+    border-top-color: black;
+    border-top-style: groove;
+}
+
+#unos2
+{
+    border-top-width: 1px;
+    border-top-color: black;
+    border-top-style: groove;
+}
+
+
+#tableBacground
+{
+    background: black;
+    border-color: white;
+    border-radius: 10px;
+    border-width: 1px;
+    border-style: groove;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+#formaLogin
+{
+    background: white;
+    border-color: greenyellow;
+    border-radius: 10px;
+    border-width: 1px;
+    border-style: groove;
+    text-align: center;
+    margin-top: 250px;
+    margin-right: 500px;
+    margin-left: 500px;
+    background: white;
+    padding: 50px;
+}
+h5{
+    text-align: center;
+    text-decoration: underline;
+    text-decoration: black;
+}
+
+h4
+{
+    text-align: center;
+    text-decoration: black;
+}
